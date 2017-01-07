@@ -17,3 +17,13 @@ nama kelompok :
  - Anggun Syahfitri         13 111 1238
  - Tengku Firmanda          13 111 1087 
 
+
+Aplikasi ini menggunakan php pure
+
+langkah-langkah menjalankan nya:
+
+masuk ke folder xampp/htdocs
+
+git clone https://github.com/sekarlarasati/pergudangan.git atau download manual
+
+import database bernama tgudang.sql
